@@ -1,0 +1,27 @@
+* {
+    padding: 2px;
+    margin: auto;
+}
+
+body {
+    background-color: lime(100, 149, 237, .1);
+    width: 960px;
+    text-align: center;
+    } 
+   
+  td, th {
+    border: 1px solid black;
+  } 
+  
+  th, .highlight {
+    background-color: lavender(100, 149, 237, .75);
+  } 
+  
+  td {
+    background-color: burlywood(100, 149, 237, .25);
+  }
+
+  tfoot td {
+      background-color: burlywood(100, 149, 237, .25);
+  }
+  
